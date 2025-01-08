@@ -150,10 +150,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fahimfiroz42/fahimfiroz42/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">👋 My recent work 👋</h3>
 
 ###
