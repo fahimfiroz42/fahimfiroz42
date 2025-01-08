@@ -154,6 +154,6 @@
 
 ###
 
-<p align="left">Currently I am working a Ecommerce project. This project is for selling shoes and accessories.</p>
+<p align="left">Currently I am working in a Ecommerce project. This project is for selling shoes and accessories.</p>
 
 ###
